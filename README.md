@@ -1,4 +1,5 @@
-# Proj#01: Comparative Analysis of Global Economic Data with a Focus on Morocco
+# Analyzing-Morocco-s-Economy-Against-Global-Trends
+- Comparative Analysis of Global Economic Data with a Focus on Morocco
 
 #### Author: Aimad SADOUK  
 #### LinkedIn: @Aimad SADOUK
