@@ -1,5 +1,4 @@
-# Analyzing-Morocco-s-Economy-Against-Global-Trends
-- Comparative Analysis of Global Economic Data with a Focus on Morocco
+# Analyzing-Morocco's-Economy-Against-Global-Trends
 
 #### Author: Aimad SADOUK  
 #### LinkedIn: @Aimad SADOUK
@@ -29,5 +28,12 @@ This project explores Morocco's economic trends relative to global metrics, focu
 - **Economic Growth**: Morocco’s GDP growth suggests successful sectoral development.  
 - **Digital Opportunities**: The rise in internet usage offers potential for digital economic growth.  
 - **Income & Employment**: Differences in regional unemployment rates underline significant economic inequalities.
+
+### Contact 
+
+Feel free to reach out if you have any questions or if you're interested in collaboration:
+
+**Email: sadouk.aimad@gmail.com**
+
 
 Thank you for taking the time to read my report; I hope it provides valuable insights and fosters thoughtful discussions.
