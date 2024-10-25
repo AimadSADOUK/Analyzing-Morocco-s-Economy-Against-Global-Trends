@@ -1,7 +1,7 @@
 # Proj#01: Comparative Analysis of Global Economic Data with a Focus on Morocco
 
 #### Author: Aimad SADOUK  
-#### LinkedIn: [Aimad SADOUK](https://www.linkedin.com/in/aimad-sadou-k-35a928226/)
+#### LinkedIn: @Aimad SADOUK
 
 ## Description  
 This project explores Morocco's economic trends relative to global metrics, focusing on GDP growth, birth and death rates, unemployment, and internet usage. Using data analysis and visualization, it reveals Morocco's economic standing and growth drivers. Additionally, a classification model categorizes countries by income level, achieving a **99.4% accuracy**.
