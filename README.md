@@ -1,4 +1,4 @@
-# Analyzing-Morocco's-Economy-Against-Global-Trends
+# Analyzing Morocco's Economy Against Global Trends
 
 #### Author: Aimad SADOUK  
 #### LinkedIn: @Aimad SADOUK
