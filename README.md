@@ -38,4 +38,4 @@ Thank you for taking the time to read my report; I hope it provides valuable ins
 
 ![image alt text](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends/blob/main/03-%20Global%20analysis%20Economic.png)
 
-
+![image](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends/blob/main/03-%20Global%20analysis%20Economic.png)
