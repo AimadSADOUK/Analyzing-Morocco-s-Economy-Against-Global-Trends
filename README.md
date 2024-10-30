@@ -5,6 +5,8 @@
 ## Description  
 This project explores Morocco's economic trends relative to global metrics, focusing on GDP growth, birth and death rates, unemployment, and internet usage. Using data analysis and visualization, it reveals Morocco's economic standing and growth drivers. Additionally, a classification model categorizes countries by income level, achieving a **99.4% accuracy**.
 
+![image](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends/blob/main/03-%20Global%20analysis%20Economic.png)
+--
 ## Objectives  
 - **Morocco’s Economic Trends**: Track Morocco’s economic growth from 1960 to 2020.  
 - **Global Comparison**: Compare Morocco’s performance with global regions to identify trends.  
@@ -34,8 +36,3 @@ Feel free to reach out if you have any questions or if you're interested in coll
 
 
 Thank you for taking the time to read my report; I hope it provides valuable insights and fosters thoughtful discussions.
-
-
-![image alt text](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends/blob/main/03-%20Global%20analysis%20Economic.png)
-
-![image](https://github.com/AimadSADOUK/Analyzing-Morocco-s-Economy-Against-Global-Trends/blob/main/03-%20Global%20analysis%20Economic.png)
